@@ -19,4 +19,5 @@ python3 central_server/src/main.py
 - **1** Verificar quais servidores distribuídos estão conectados.
 - **2** Receber informações dos equipamentos de uma sala.
 - **3** Alterar o estado de um equipamento.
-- **4** 
+- **4** Ligar Alarme
+- **5** Desligar Alarme
